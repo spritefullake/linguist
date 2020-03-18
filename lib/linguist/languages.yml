@@ -4420,6 +4420,7 @@ Raku:
   type: programming
   color: "#0000fb"
   extensions:
+  - "raku"
   - ".6pl"
   - ".6pm"
   - ".nqp"
@@ -4430,6 +4431,8 @@ Raku:
   - ".pl6"
   - ".pm"
   - ".pm6"
+  - "rakumod"
+  - "rakutest"
   - ".t"
   interpreters:
   - perl6
